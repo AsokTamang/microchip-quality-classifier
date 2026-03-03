@@ -42,6 +42,7 @@ $$\frac{\partial J}{\partial \mathbf{w}} = \frac{1}{m} \mathbf{X}^\top (\hat{\ma
 chip_quality_classifier/
 ├── chip_quality_classifier.ipynb   # Full implementation and results
 ├── data/                           # Microchip test dataset
+|__utils.py                         #feature engineering and sigmoid
 └── README.md
 ```
 
